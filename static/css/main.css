@@ -195,9 +195,20 @@ a:hover {
 .page-content p {
   font-size: 1.125rem;
   line-height: 1.625;
-  color: var(--muted);
+  color: var(--purple);
   margin-top: 0;
   margin-bottom: 2rem;
+}
+
+.lead a,
+p a {
+  color: var(--purple);
+  text-decoration: underline;
+}
+
+.lead a:hover,
+p a:hover {
+  color: var(--accent-hover);
 }
 
 .page-content ul,

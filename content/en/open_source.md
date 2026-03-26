@@ -38,7 +38,7 @@ We actively curate our supply chain to align with our ideological goals.
 
 ## 4. Contribution Policy (DCO)
 
-We require contributions to our project to use the \[**Developer Certificate of Origin (DCO) 1.1\](**<https://developercertificate.org/>**)**
+We require contributions to our project to use the [Developer Certificate of Origin (DCO) 1.1](<https://developercertificate.org/>)
 
 By submitting a contribution (pull request, commit, patch) to LEAP, you certify the following via a `Signed-off-by` line in your commit message:
 
